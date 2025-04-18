@@ -1,0 +1,12 @@
+plugins:
+  random_usernames_enabled:
+    client: true
+    default: false
+  random_usernames_length:
+    client: false
+    default: 6
+    min: 4
+    max: 15
+  random_usernames_alphabet:
+    client: false
+    default: "bcdfghjkmnpqrstvwxyz"

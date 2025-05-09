@@ -9,4 +9,4 @@ plugins:
     max: 15
   random_usernames_alphabet:
     client: false
-    default: "bcdfghjkmnpqrstvwxyz"
+    default: "bcdfghjkmnpqrstvwxz"

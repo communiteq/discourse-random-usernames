@@ -2,3 +2,4 @@ en:
   site_settings:
     random_usernames_enabled: "Enable the Random Usernames plugin."
     random_usernames_length: "Number of characters for the usernames."
+    random_usernames_alphabet: "Alphabet to use for the usernames, so it cannot accidentally generate words."
